@@ -1,0 +1,27 @@
+
+        body{
+            background-color:#EEEEEE;
+        }
+         hr{
+            border-color: #222831;
+            border-style: none;
+            border-width: 5px;
+            border-top-style: dotted;
+            width: 5%;
+        }   
+
+        footer > p{
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+        }
+
+        h1,h3{
+            color: #00ADB5;
+        }
+        p,td,li,a { 
+            color: #222831;
+        }
+        th{
+            color: #393E46;
+        }
